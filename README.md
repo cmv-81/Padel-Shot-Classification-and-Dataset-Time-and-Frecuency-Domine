@@ -1,1 +1,3 @@
-# Padel-Shot-Classification-and-Dataset-Time-and-Frecuency-Domine
+This study is the final project of Claudia Martínez Valerio, tutored by Daniel Gutiérrez Reina. 13 different padel shots are recorded in a dataset with more than 4000 shots. A comparison between some of the main machine learning algorithms that aim to classify padel shots in different domines (time and frequency) is carried out. These algorithms are neural networks, convolutional neural networks 1D, convolutional neural networks 2D, decision tree, K nearest neighbors and support vector machine. You can see a video explanation in https://youtu.be/UO_WZ40g1Io
+
+In order to run each code, you must change the dataset directory in each code to the dataset location on your computer.
